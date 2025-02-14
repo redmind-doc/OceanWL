@@ -31,6 +31,13 @@ Documentation: https://wiki.seeedstudio.com/Grove-Temperature_Sensor_V1.2/
 <img width="405" alt="{092D4E38-A22E-4A05-A368-1907A1D0430F}" src="https://github.com/user-attachments/assets/15ef2a70-4971-45ac-89ea-a6d702634aca" />
 
 
+## Communications Bluetooth Esp32
+https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/bluetooth/classic_bt.html
+
+## Communications Bluetooth RPI
+https://raspberrytips.fr/configuration-bluetooth-raspberry-pi/
+
+
 
 
 
