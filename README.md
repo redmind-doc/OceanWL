@@ -37,6 +37,11 @@ https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/blueto
 ## Communications Bluetooth RPI
 https://raspberrytips.fr/configuration-bluetooth-raspberry-pi/
 
+## Plan de cablage 
+
+<img width="453" alt="{5F494551-D5AD-4343-8789-2DB3734A594D}" src="https://github.com/user-attachments/assets/c2df1cc3-bbc6-4a5a-a60f-d3e8b94c425f" />
+
+
 
 
 
